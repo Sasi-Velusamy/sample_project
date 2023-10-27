@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SmokeTest">
+	<test name="Smoke_Test">
+		<classes>
+			<!--<class name="com.atmecs.fanlounge.module.TicketsTests" />
+			<class name="com.atmecs.fanlounge.module.LiveTVTests" />
+			<class name="com.atmecs.fanlounge.module.AppPreferenceTest" />
+			<class name="com.atmecs.fanlounge.module.SignInTests" />
+			<class name="com.atmecs.fanlounge.module.RewardClaimTests" />
+			<class name="com.atmecs.fanlounge.module.SignOutTests" />
+			<class name="com.atmecs.fanlounge.module.SignUpTests" />
+			<class name="com.atmecs.fanlounge.module.LanguagePreferenceTests" />
+			<class name="com.atmecs.fanlounge.module.MatchHighlightsTest" />
+			<class name="com.atmecs.fanlounge.utils.PropertiesFileUpdater"/> -->
+			<class name="com.atmecs.fanlounge.module.SignInTests" />
+		</classes>
+	</test>
+</suite>
